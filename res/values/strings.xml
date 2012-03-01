@@ -7,5 +7,7 @@
     <string name="passtext">Password:</string>
     <string name="loginbuttontext">Login</string>
     <string name="regbuttontext">Register</string>
+    <string name="sendbuttontext">Send</string>
+    <string name="changeserverbuttontext">Change server</string>
 
 </resources>

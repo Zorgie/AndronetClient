@@ -48,6 +48,12 @@
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:text="@string/regbuttontext" />
+
+        <Button
+            android:id="@+id/changeserverbutton"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/changeserverbuttontext" />
     </LinearLayout>
 
     <TextView
@@ -55,5 +61,6 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:inputType="text"
-        android:orientation="vertical"/>
+        android:orientation="vertical" />
+
 </LinearLayout>
