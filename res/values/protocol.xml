@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="cmdSend">SEND</string>
+    <string name="cmdLogin">LOGIN</string>
+    <string name="cmdRegister">REGISTER</string>
+
+</resources>

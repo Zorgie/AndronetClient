@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">Hello World, AndronetClientActivity!</string>
+    <string name="app_name">AndronetClient</string>
+    <string name="emailtext">E-mail:</string>
+    <string name="passtext">Password:</string>
+    <string name="loginbuttontext">Login</string>
+    <string name="regbuttontext">Register</string>
+
+</resources>
